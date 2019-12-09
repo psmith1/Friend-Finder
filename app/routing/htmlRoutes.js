@@ -12,14 +12,14 @@ module.exports = function(app) {
     res.sendFile(path.join(__dirname, "../public/home.html"));
   });
 
-// Survey route that sends the user to the survey form page
-app.get("/survey", function(req, res) {
+  //Survey route that sends the user to the survey form page
+  app.get("/survey", function(req, res) {
     res.sendFile(path.join(__dirname, "../public/survey.html"));
-});
+  });
 
-// Default route
-app.get("/", function(req, res) {
-  res.sendFile(path.join(__dirname, "../public/home.html"));
-});
+  // Default route
+  app.get("/", function(req, res) {
+    res.sendFile(path.join(__dirname, "../public/home.html"));
+  });
 
 }
