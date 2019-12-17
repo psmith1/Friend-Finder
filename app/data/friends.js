@@ -1,133 +1,101 @@
-var friendsArray = [
+var friends = [
     {
-        "name": "Ahmed",
-        "photo": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAq7AAAAJDAwYzI4NTQ4LWYwZWUtNGFkYS1hNTYwLTZjYzkwY2ViZDA3OA.jpg",
+        "name": "Richard",
+        "photo": "https://media.giphy.com/media/VhKR7WDlHyBhje9DMr/giphy.gif",
         "scores": [
-            "5",
-            "1",
-            "4",
-            "4",
-            "5",
-            "1",
-            "2",
-            "5",
-            "4",
-            "1"
-        ]
-    },
-    {
-        "name": "Jacob Deming",
-        "photo": "https://pbs.twimg.com/profile_images/691785039043022849/oWsy8LNR.jpg",
-        "scores": [
-            "4",
-            "2",
-            "5",
-            "1",
             "3",
-            "2",
-            "2",
-            "1",
-            "3",
-            "2"
-        ]
-    },
-    {
-        "name": "Jeremiah Scanlon",
-        "photo": "https://avatars2.githubusercontent.com/u/8504998?v=3&s=460",
-        "scores": [
             "5",
-            "2",
-            "2",
-            "2",
             "4",
             "1",
+            "5",
             "3",
-            "2",
+            "5",
+            "4",
             "5",
             "5"
         ]
     },
     {
-        "name": "Louis T. Delia",
-        "photo": "https://pbs.twimg.com/profile_images/639214960049000449/lNCRC-ub.jpg",
+        "name": "Jared",
+        "photo": "https://i.pinimg.com/originals/0a/a4/cd/0aa4cd14c7d7a4a07e71ba82c245632d.gif",
         "scores": [
+            "4",
+            "3",
+            "5",
+            "5",
+            "2",
+            "5",
+            "5",
+            "2",
+            "1",
+            "5"
+        ]
+    },
+    {
+        "name": "Gilfoyle",
+        "photo": "https://media.giphy.com/media/IfgkVFVOEPqWUoyOVc/giphy.gif",
+        "scores": [
+            "2",
+            "5",
+            "3",
+            "1",
+            "4",
+            "1",
+            "4",
+            "2",
+            "4",
+            "3"
+        ] 
+    },
+    {
+        "name": "Dinesh",
+        "photo": "https://media3.giphy.com/media/xUA7aYjnWxBv8TM2s0/source.gif",
+        "scores": [
+            "2",
+            "2",
+            "3",
+            "1",
+            "4",
             "3",
             "3",
             "4",
-            "2",
-            "2",
-            "1",
-            "3",
-            "2",
-            "2",
+            "4",
             "3"
         ]
     },
     {
-        "name": "Lou Ritter",
-        "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAkDAAAAJDhhZTI5NTk2LWQzZjUtNDJjZi1hMTM2LTQ3ZjNmYjE0YmY2NA.jpg",
+        "name": "Monica",
+        "photo": "https://media.giphy.com/media/iDCfYMNfnHpYEdn6nJ/giphy.gif",
         "scores": [
-            "4",
+            "5",
             "3",
-            "4",
-            "1",
+            "3",
+            "5",
             "5",
             "2",
-            "5",
+            "4",
             "3",
             "1",
-            "4"
+            "3"
         ]
     },
     {
-        "name": "Jordan Biason",
-        "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAisAAAAJGUxYzc4YzA0LWQxMzUtNGI4NS04YTFiLTkwYzM0YTZkNzA2NA.jpg",
-        "scores": [
-            "4",
-            "4",
-            "2",
-            "3",
-            "2",
-            "2",
-            "3",
-            "2",
-            "4",
-            "5"
-        ]
-    },
-    {
-        "name": "c",
-        "photo": "https://www.google.com/search?q=picture&rlz=1C1CHBF_enUS854US854&sxsrf=ACYBGNSFOfUzSMaBg0Ua6PHBgazpiMSanA:1575320271894&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjwutqp7ZfmAhUPPK0KHZc9CxEQ_AUoAXoECBAQAw&biw=1536&bih=754#imgrc=Gw1vgpzIucJQhM:",
+        "name": "Jian Yang",
+        "photo": "https://media1.giphy.com/media/MuE0xWbEohUrxbm77r/giphy.gif",
         "scores":[
-            "5",
-            "5",
-            "5",
-            "5",
-            "5",
-            "5",
-            "5",
-            "5",
-            "5",
-            "5"
-        ]
-    },
-    {
-        "name": "D",
-        "photo": "d",
-        "scores": [
-            "2",
-            "2",
-            "1",
-            "1",
             "4",
-            "3",
             "2",
-            "2",
+            "1",
+            "5",
+            "1",
             "3",
+            "1",
+            "1",
+            "1",
             "2"
         ]
-    }
+    },
 ]
 
-console.log(friendsArray);
-module.exports = friendsArray;
+console.log(friends);
+module.exports = friends;
