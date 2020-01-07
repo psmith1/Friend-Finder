@@ -17,7 +17,7 @@ var friends = [
         },
         {
                 name: 'Dinesh',
-                photo: 'https://media3.giphy.com/media/xUA7aYjnWxBv8TM2s0/source.gif',
+                photo: 'https://media1.giphy.com/media/hrpCfcYelt66fSZdtm/giphy.gif',
                 scores: ['2', '2', '3', '1', '4', '3', '3', '4', '4', '3'],
         },
         {
