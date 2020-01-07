@@ -8,12 +8,12 @@ var friends = [
         {
                 name: 'Jared',
                 photo: 'https://i.pinimg.com/originals/0a/a4/cd/0aa4cd14c7d7a4a07e71ba82c245632d.gif',
-                scores: ['4', '3', '5', '5', '2', '5', '5', '2', '1'],
+                scores: ['4', '3', '5', '5', '2', '5', '5', '2', '1', '5'],
         },
         {
                 name: 'Gilfoyle',
                 photo: 'https://media.giphy.com/media/IfgkVFVOEPqWUoyOVc/giphy.gif',
-                scores: ['2', '5', '3', '1', '4', '1', '4', '2', '4'],
+                scores: ['2', '5', '3', '1', '4', '1', '4', '2', '4', '5'],
         },
         {
                 name: 'Dinesh',

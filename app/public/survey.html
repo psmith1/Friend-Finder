@@ -184,6 +184,8 @@
   </div>
 
   <script type="text/javascript">// Chosen CSS
+    /* eslint-disable vars-on-top */
+    /* eslint-disable no-restricted-syntax */
     var config = {
       '.chosen-select': {},
       '.chosen-select-deselect': {
@@ -200,6 +202,7 @@
       },
     };
 
+    // eslint-disable-next-line guard-for-in
     for (var selector in config) {
       $(selector).chosen(config[selector]);
     }
