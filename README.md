@@ -1,6 +1,8 @@
 # Friend Finder
 Friend Finder is an application where users are matched based on data they submit through a survey they fill out.
 
+https://friend-finder-psmith1.herokuapp.com/
+
 ## Technologies used
 	•	Javascript
 	•	HTML/CSS
