@@ -15,4 +15,4 @@ https://friend-finder-psmith1.herokuapp.com/
 
 ## Summary
 
-![Friend Finder Screenshot](app/public/assets/images/friendfinder.png)
+![Friend Finder Screenshot](/app/public/Assets/images/friendfinder.png)
